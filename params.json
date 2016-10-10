@@ -1,1 +1,7 @@
-{"name":"ericvan76.github.io","tagline":"","body":"Hello World!","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "ericvan76.github.io",
+  "tagline": "",
+  "body": "## Projects\r\n* [KidsPrize](http://www.kids-prize.com/) - a simple behaviour charts for kids\r\n* [Right Click Translate](http://goo.gl/Rcjs82) - a chrome extension to translate selected text",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
