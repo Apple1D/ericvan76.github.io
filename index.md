@@ -1,4 +1,4 @@
-## Projects
+# Projects
 
 ### [KidsPrizeMobile](https://github.com/ericvan76/KidsPrizeMobile/blob/master/README.md) 
 a simple charts app to manager kids behaviors
