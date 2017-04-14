@@ -1,6 +1,9 @@
 # Projects
 
-### [KidsPrizeMobile](https://github.com/ericvan76/KidsPrizeMobile/blob/master/README.md) 
+### [EasyVersioning.AspNetCore](https://github.com/ericvan76/EasyVersioning.AspNetCore)
+version your aspnetcore apis with simple configuration
+
+### [KidsPrizeMobile](https://github.com/ericvan76/KidsPrizeMobile) 
 a simple charts app to manager kids behaviors
 
 ### [Right Click Translate](https://goo.gl/Rcjs82) 
