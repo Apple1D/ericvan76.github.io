@@ -1,5 +1,5 @@
 
-### [Vision](https://github.com/ericvan76/vision)
+### [Expo-Vision](https://github.com/ericvan76/vision)
 A prototype App of Computer Vision
 
 ### [EasyVersioning.AspNetCore](https://github.com/ericvan76/EasyVersioning.AspNetCore)
