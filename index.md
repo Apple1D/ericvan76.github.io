@@ -1,6 +1,6 @@
 
-### [Expo-Vision](https://github.com/ericvan76/vision)
-A prototype App of Computer Vision
+### [AiVision](https://github.com/ericvan76/vision)
+A Cognitive App powered by Microsoft APIs
 
 ### [EasyVersioning.AspNetCore](https://github.com/ericvan76/EasyVersioning.AspNetCore)
 version your aspnetcore apis with simple configuration
