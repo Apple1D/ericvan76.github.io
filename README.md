@@ -1,1 +1,1 @@
-# ericvan76.github.iohttps://github.com/ericvan76/ericvan76.github.io
+# ericvan76.github.io
